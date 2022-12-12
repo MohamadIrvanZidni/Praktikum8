@@ -9,6 +9,7 @@ NIM     : 312210308
 Kelas   : TI.22.A.3
 
 ## Flowchart
+Buatlah alur flowchart terlebih dahulu untuk mempermudah dalam membuat program
 
 ![Img](Foto/Flowchart%20Tugas%201.png)
 
