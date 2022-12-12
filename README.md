@@ -8,6 +8,13 @@ NIM     : 312210308
 
 Kelas   : TI.22.A.3
 
+## Flowchart
+
+![Img](Foto/Flowchart%20Tugas%201.png)
+
+## Code
+### Penjelasan setiap program
+
 1. Membuat class_Mahasiswa terlebih dahulu
         
         class Mahasiswa:
