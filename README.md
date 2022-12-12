@@ -9,6 +9,7 @@ NIM     : 312210308
 Kelas   : TI.22.A.3
 
 1. Membuat class_Mahasiswa terlebih dahulu
+        
         class Mahasiswa:
             nama = ""
             nim = ""
@@ -18,6 +19,7 @@ Kelas   : TI.22.A.3
             akhir = ""
 
 2. Membuat list data_Mhs kosong terlebih dahulu untuk menampung data dalam class_Mahasiswa
+        
         dataMhs = []
 
 def add():
